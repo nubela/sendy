@@ -1,2 +1,5 @@
-# sendy
-php sendy in docker
+Sendy
+=====
+
+Sendy, PHP-FPM and Nginx in Docker.
+
